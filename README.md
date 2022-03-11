@@ -1,0 +1,5 @@
+# PrimitiveFBX
+
+* sphere
+* cube
+* quad
